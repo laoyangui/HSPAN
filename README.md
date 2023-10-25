@@ -50,3 +50,6 @@ For more informaiton, please refer to [EDSR(PyTorch)](https://github.com/thstkdg
     # Example X4 SR
     python main.py --dir_data ../../ --data_test Set5+Set14+B100+Urban100+Manga109 --n_GPUs 1 --rgb_range 1 --save_models --save_results --n_resgroups 10 --n_resblocks 4 --n_feats 192  --reduction 2 --topk 128  --res_scale 0.1 --model HSPAN --save HSPAN_x4_results --chop --data_range 1-800/1-5 --scale 4 --test_only --pre_train ../experiment/HSPAN_x4/model/HSPAN_x4.pt 
     ```
+   
+## Acknowledgements
+This work was supported in part by the National Nature Science Foundation of China under Grant 62073082, Grant 62173091; in part by the Taishan Scholar Program of Shandong Province;

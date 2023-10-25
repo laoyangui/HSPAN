@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="76aa862c-17a7-46ee-a499-cb55ee6f48ef" name="Changes" comment="" />
+    <list default="true" id="76aa862c-17a7-46ee-a499-cb55ee6f48ef" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,6 +49,9 @@
       <find>.size()</find>
       <find>top</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -266,6 +271,7 @@
       <workItem from="1697699920180" duration="1860000" />
       <workItem from="1697725583409" duration="5213000" />
       <workItem from="1697733907824" duration="1152000" />
+      <workItem from="1698196605124" duration="47000" />
     </task>
     <servers />
   </component>
