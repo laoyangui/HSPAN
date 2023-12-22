@@ -1,5 +1,5 @@
 # High-Similarity-Pass Attention for Single Image Super-Resolution
-This project is for HSPAN introduced in the following paper "High-Similarity-Pass Attention for Single Image Super-Resolution", submitted to IEEE TIP.
+This project is for HSPAN introduced in the following paper "High-Similarity-Pass Attention for Single Image Super-Resolution", accepted by IEEE TIP.
 
 The code is test on Ubuntu 16.04 environment (Python3.6, PyTorch >= 1.1.0) with Nvidia 3090 GPUs. 
 ## Contents
